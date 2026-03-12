@@ -1,7 +1,3 @@
-# CODECRAFT_CS_05
-
-
-
 # 📡 Packet Sniffer Tool (Educational Use)
 
 A Python-based network packet sniffer that captures and analyzes live network traffic.
